@@ -1,7 +1,7 @@
-# Hands-on exercise for week 4 unit 3:<br/>Adapting the UI as a developer – basic extensions
+# Hands-on exercise for day 4 unit 3:<br/>Adapting the UI as a developer – basic extensions
 
 ## Previous exercise
-[Hands-on exercise for week 4 unit 2:
+[Hands-on exercise for day 4 unit 2:
 Adapting an app as a key user](unit2.md)
 
 ## Video on openSAP.com platform
@@ -14,7 +14,7 @@ In the following two units you will learn how to adapt an application as develop
 example standard SAP application according to requirements from your business unit. You have received the following two
 screenshots containing the desired changes.
 
-> ⚠️ Have in mind that in order to complete this and the next exercise, you should have already completed the steps described in Week 4 Unit 1 exercise - they guide you how to set up ES5 user and destination in the cockpit for this system.
+> ⚠️ Have in mind that in order to complete this and the next exercise, you should have already completed the steps described in Day 4 Unit 1 exercise - they guide you how to set up ES5 user and destination in the cockpit for this system.
 
 ![Trial Home > Home - SAP BTP Cockpit - [InPrivate] - Microsoft​ Edge](images/unit3/req1.png "Trial Home > Home - SAP BTP Cockpit - [InPrivate] - Microsoft​ Edge")
 
@@ -219,4 +219,4 @@ have done.
 
 ## Next Exercise
 
-[Week 4 Unit 4: Adapting the UI as a developer – advanced extensions](unit4.md)
+[Day 4 Unit 4: Adapting the UI as a developer – advanced extensions](unit4.md)
