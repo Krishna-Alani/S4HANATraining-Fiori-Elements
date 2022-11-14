@@ -1,7 +1,7 @@
-# Hands-on exercise for week 4 unit 4:<br/>Adapting the UI as a developer – advanced extensions
+# Hands-on exercise for day 4 unit 4:<br/>Adapting the UI as a developer – advanced extensions
 
 ## Previous exercise
-[Hands-on exercise for week 4 unit 3:
+[Hands-on exercise for day 4 unit 3:
 Adapting the UI as a developer – basic extensions](unit3.md)
 
 ## Video on openSAP.com platform
