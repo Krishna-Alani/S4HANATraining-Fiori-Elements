@@ -1,7 +1,7 @@
-# Hands-on exercise for week 4 unit 2:<br/>Adapting an app as a key user
+# Hands-on exercise for day 4 unit 2:<br/>Adapting an app as a key user
 
 ## Previous exercise
-[Hands-on exercise for week 4 unit 1:
+[Hands-on exercise for day 4 unit 1:
 Understanding SAPUI5 flexibility](unit1.md)
 
 ## Video on openSAP.com platform
@@ -246,4 +246,4 @@ In this unit, you have learned how the key user can make changes to an applicati
 The next step would be to make these changes available to your end users. Depending on the platform you're working, the exact procedure might differ.
 
 ## Next Exercise
-[Week 4 Unit 3: Adapting the UI as a developer – basic extensions](unit3.md)
+[Day 4 Unit 3: Adapting the UI as a developer – basic extensions](unit3.md)
